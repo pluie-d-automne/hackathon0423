@@ -1,7 +1,12 @@
 # hackathon0423
 Student's hackathon. April 2023. Team: КотШредингера.
 
-## CheckPoints
+## Case Raleted Links
+* [Garpix API](https://glsystem.net/dokumentaciya-k-api)
+* [Garpix Case](https://docs.google.com/document/d/1OYgCF0F0AFQoFcH86BYoUUtqk_u1byTIsYUegyg6CUw/edit)
+* [Questions Form](https://docs.google.com/spreadsheets/d/147NsgSBn5vw8UxskmBR5MTKUY0lrjTWpIp5C7yJsjOs/edit#gid=0)
+
+## Hackaton CheckPoints
 * 27.03 - Публикация задач
 * `07.04 - Чек-поинт 1 - Бизнес-корректировка (асинхронная обратная связь) - Надо подготовить презентацию`
 * 21.04 - Чек-поинт 2 Асинхронная предзащита (уже должны быть загружены ссылки на git)
@@ -25,13 +30,7 @@ Student's hackathon. April 2023. Team: КотШредингера.
 ## Team: КотШредингера
 * Георгий Шипигузов @George2301
 * Елизавета Алмазова @lizalmazova
-* Михаил Губанов
+* Михаил Губанов @yainformal
 * Полина Кудрявцева @pluie-d-automne
 * Сергей Евстратов @esvesv
-* Сергей Мартынюк @martynyuks
-
-**Links:**
-* [Garpix API](https://glsystem.net/dokumentaciya-k-api)
-* [Garpix Case](https://docs.google.com/document/d/1OYgCF0F0AFQoFcH86BYoUUtqk_u1byTIsYUegyg6CUw/edit)
-* [Questions Form](https://docs.google.com/spreadsheets/d/147NsgSBn5vw8UxskmBR5MTKUY0lrjTWpIp5C7yJsjOs/edit#gid=0)
-* 
+* Сергей Мартынюк @martynyuks 
