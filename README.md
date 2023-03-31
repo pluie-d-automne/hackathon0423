@@ -24,11 +24,11 @@ Student's hackathon. April 2023. Team: КотШредингера.
 
 ## Team: КотШредингера
 * Георгий Шипигузов @George2301
-* Елизавета Алмазова
+* Елизавета Алмазова @lizalmazova
 * Михаил Губанов
-* Полина Кудрявцева
+* Полина Кудрявцева @pluie-d-automne
 * Сергей Евстратов @esvesv
-* Сергей Мартынюк
+* Сергей Мартынюк @martynyuks
 
 **Links:**
 * [Garpix API](https://glsystem.net/dokumentaciya-k-api)
