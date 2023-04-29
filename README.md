@@ -6,11 +6,11 @@ Student's hackathon. April 2023. Team: КотШредингера.
 * [Garpix Case](https://docs.google.com/document/d/1OYgCF0F0AFQoFcH86BYoUUtqk_u1byTIsYUegyg6CUw/edit)
 * [Questions Form](https://docs.google.com/spreadsheets/d/147NsgSBn5vw8UxskmBR5MTKUY0lrjTWpIp5C7yJsjOs/edit#gid=0)
 
-## Hackathon CheckPoints
+## Hackathon Milestones
 * <del>27.03 - Публикация задач</del>
 * <del>10.04 - Чек-поинт 1 - Бизнес-корректировка (асинхронная обратная связь) - Надо подготовить презентацию и загрузить до 8:00 понедельника [сюда](https://drive.google.com/drive/folders/1Hg5C3nD-N6DY27QdaMsZGMZ3xL2q_qn9)</del>
-* 24.04 - Чек-поинт 2 - Асинхронная предзащита (уже должны быть загружены ссылки на git)
-* **30.04 - Кодфриз с 20:00**
+* <del>24.04 - Чек-поинт 2 - Асинхронная предзащита (уже должны быть загружены ссылки на git)</del>
+* **30.04 - Кодфриз**
 * 02.05 - Закрытие. Выступление лучших команд.
 
 ## Team: КотШредингера
@@ -19,7 +19,15 @@ Student's hackathon. April 2023. Team: КотШредингера.
 * Михаил Губанов @yainformal
 * Полина Кудрявцева @pluie-d-automne
 * Сергей Евстратов @esvesv
-* Сергей Мартынюк @martynyuks 
+* Сергей Мартынюк @martynyuks
+
+## Решение
+* Ход решения описан в презентациях по чекпоинтам: *Checkpoint_1.pptx* и *Checkpoint_2.pptx*
+* В папке analysis - ноутбуки с EDA исходного датасета
+* В папке API - API, финальные модели и вспомогательные функции для API
+* В папке database - код с загрузками данных в MongoDB, аугментацией и прочими подготовительными преобразованиями
+* В папке models - все модели, которые мы построили в процессе поиска решения.
+
 
 ## Q&A
 
